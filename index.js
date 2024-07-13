@@ -47,7 +47,7 @@ bot.onText(/\/start/, (msg) => {
         reply_markup: {
             inline_keyboard: [
                 [
-                    { text: '🐹 Launch Card Calci 🐹', url: webAppUrl }
+                    { text: '🐹 Launch Hamster Calci 🐹', url: webAppUrl }
                 ],
                 [
                     { text: 'Subscribe to channel', url: channelUrl }

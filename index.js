@@ -40,7 +40,7 @@ bot.onText(/\/start/, (msg) => {
         + `📈 Calculate card levels, ROI, and effectiveness\n`
         + `💡 Optimize your strategy and outsmart your opponents\n`
         + `📊 Track your progress and watch your profits soar\n\n`
-        + `[How to use?](https://t.me/hamstercalci/6)`;
+        + `[How to use?](https://t.me/hamstercalcichat/201)`;
 
     // Inline keyboard with a button to launch your web app
     const keyboard = {
